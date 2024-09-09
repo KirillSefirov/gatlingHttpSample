@@ -1,4 +1,4 @@
-package demogatling
+package gatlingHttpSample
 
 import io.gatling.javaapi.http.HttpDsl.http
 

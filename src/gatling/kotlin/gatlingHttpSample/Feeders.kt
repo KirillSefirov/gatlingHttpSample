@@ -1,0 +1,5 @@
+package gatlingHttpSample
+
+object Feeders {
+
+}

@@ -1,7 +1,7 @@
-package demogatling
+package gatlingHttpSample
 
-import demogatling.Protocol.httpProtocol
-import demogatling.Scenario.scn
+import gatlingHttpSample.Protocol.httpProtocol
+import gatlingHttpSample.Scenario.scn
 import io.gatling.javaapi.core.CoreDsl.atOnceUsers
 import io.gatling.javaapi.core.Simulation
 

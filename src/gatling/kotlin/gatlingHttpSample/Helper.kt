@@ -1,4 +1,4 @@
-package demogatling
+package gatlingHttpSample
 
 import kotlinx.serialization.Serializable
 
