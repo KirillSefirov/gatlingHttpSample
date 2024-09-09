@@ -1,0 +1,5 @@
+package demogatling
+
+object Feeders {
+
+}
